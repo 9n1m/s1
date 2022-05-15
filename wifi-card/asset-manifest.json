@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/s1/wifi-card/static/css/main.b35ce749.chunk.css",
+    "main.js": "/s1/wifi-card/static/js/main.45895319.chunk.js",
+    "main.js.map": "/s1/wifi-card/static/js/main.45895319.chunk.js.map",
+    "runtime-main.js": "/s1/wifi-card/static/js/runtime-main.901c4f04.js",
+    "runtime-main.js.map": "/s1/wifi-card/static/js/runtime-main.901c4f04.js.map",
+    "static/js/2.0dfa8591.chunk.js": "/s1/wifi-card/static/js/2.0dfa8591.chunk.js",
+    "static/js/2.0dfa8591.chunk.js.map": "/s1/wifi-card/static/js/2.0dfa8591.chunk.js.map",
+    "index.html": "/s1/wifi-card/index.html",
+    "static/css/main.b35ce749.chunk.css.map": "/s1/wifi-card/static/css/main.b35ce749.chunk.css.map",
+    "static/js/2.0dfa8591.chunk.js.LICENSE.txt": "/s1/wifi-card/static/js/2.0dfa8591.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/s1/wifi-card/static/media/SourceSerif4-Semibold.79657b26.otf",
+    "static/media/wifi.98ef7bb3.png": "/s1/wifi-card/static/media/wifi.98ef7bb3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.901c4f04.js",
+    "static/js/2.0dfa8591.chunk.js",
+    "static/css/main.b35ce749.chunk.css",
+    "static/js/main.45895319.chunk.js"
+  ]
+}
